@@ -35,9 +35,9 @@ VALUES
 (4, 'TIEN_SY');
 INSERT INTO teacher (teacher_id, last_name, first_name, teacher_type, education_level, image, base_salary, start_date)
 VALUES
-    ('anv123', 'Nguyen Van', 'A', 1, 4, 'nguyenvana.jpg', 15000000, '2020-01-15'),
-    ('blt123', 'Le Thi', 'B', 2, 3, 'lethib.jpg', 12000000, '2021-03-10'),
-    ('ctt123', 'Tran Thi', 'C', 1, 2, 'tranthic.jpg', 18000000, '2019-07-25'),
-    ('dhv123', 'Hoang Van', 'D', 2, 1, 'hoangvand.jpg', 11000000, '2022-05-20');
+    ('anv123', 'Nguyen Van', 'A', 1, 4,null, 15000000, '2020-01-15'),
+    ('blt123', 'Le Thi', 'B', 2, 3, null, 12000000, '2021-03-10'),
+    ('ctt123', 'Tran Thi', 'C', 1, 2,null, 18000000, '2019-07-25'),
+    ('dhv123', 'Hoang Van', 'D', 2, 1, null, 11000000, '2022-05-20');
 
 
