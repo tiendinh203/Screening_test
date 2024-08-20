@@ -10,7 +10,7 @@ Dự án này bao gồm hai phần chính: phần server (Java - Springboot) và
    ```
 ## Bước 2: 
  **Mở IntellIJ hoặc Eclipse**
-   Tìm kiếm thư mục bạn đã download mở file server (teacher_management) > run src/main/java/com/fpoly/teacher_management/TeacherManagement.java
+   Tìm kiếm thư mục bạn đã download mở file server (teacher_management) > run src/main/java/com/fpoly/teacher_management/TeacherManagement.java ( sửa file application.properties thành cấu hình của bạn )
 ## Bước 3:
  **Mở Visual Studio code**
    Tìm kiếm thư mục bạn đã download mở file client (teacher_management-client)
